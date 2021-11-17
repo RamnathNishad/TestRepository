@@ -1,2 +1,3 @@
 Line added at remote repos
 Line 2 added at remote branch
+Line 3 added at local repo
