@@ -1,1 +1,2 @@
 Welcome to Git with VS Code
+Working with Git options with VS Code
